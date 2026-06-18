@@ -47,4 +47,4 @@ I am also a freelance graphic designer and video editor under Fadd Graphics. Thi
 ## Contact
 
 * GitHub: fadd3079-prog
-* Instagram: fadd_graphics
+* Instagram: fadd.graphics
