@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F766E,100:111827&text=Mufaddhol&fontColor=F8FAFC&fontSize=52&fontAlignY=36&desc=Informatics%20Student%20·%20Software%20Developer%20·%20Graphic%20Designer&descAlignY=58&descSize=16&animation=fadeIn" alt="Mufaddhol — Informatics Student, Software Developer, Graphic Designer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F766E,100:111827&text=Mufaddhol&fontColor=F8FAFC&fontSize=52&fontAlignY=36&desc=Informatics%20Student%20·%20Software%20Developer%20·%20Graphic%20Designer&descAlignY=58&descSize=16&animation=fadeIn" alt="Mufaddhol - Informatics Student, Software Developer, Graphic Designer" width="100%" />
 </div>
 
 <div align="center">
