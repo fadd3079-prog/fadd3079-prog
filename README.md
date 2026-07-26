@@ -35,26 +35,6 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
 
 
 
-## Current Focus
-
-- Building useful software with a practical mindset
-- Learning new tools and systems with intention
-- Solving real problems through thoughtful engineering
-- Improving UI/UX and product experience
-- Contributing to open source and shared learning
-- Staying curious and refining craft over time
-
-<div align="center" style="margin: 18px 0 24px;">
-  <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #0F766E, transparent);" />
-</div>
-
-## Tech Stack
-
-<div align="center" style="margin: 16px 0 30px;">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,js,nodejs,supabase,postgres,sqlite,git,github,figma,ai,ps,pr,vscode,vercel&perline=8" alt="Tech stack" />
-</div>
-
-
 ## Featured Projects
 
 <table width="100%" style="border-collapse: separate; border-spacing: 0 16px; margin: 18px 0 28px;">
@@ -125,5 +105,10 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
   <a href="https://www.linkedin.com/in/mufaddhol-01b60333a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/faaadhl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
+
+<br>
+<p align="center" style="margin: 16px 0 30px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c,cs,java,php,go,rust,ruby,kotlin,swift,dart,lua,r,zig,nim,react,nextjs,vue,angular,svelte,flutter,express,nestjs,laravel,django,tailwind,bootstrap,sass,threejs,postgres,mysql,mongodb,sqlite,redis,supabase,git,github,vscode,figma,ai,ps,pr,ae,au,blender,docker,kubernetes,linux,ubuntu,vercel,netlify,postman,androidstudio,idea,pycharm&perline=20" alt="Tech stack" width="100%" />
+</p>
 
 
