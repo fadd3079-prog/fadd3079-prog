@@ -1,0 +1,10 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="260" rx="24" fill="#0B1220"/>
+  <rect x="28" y="28" width="844" height="204" rx="20" fill="#111827" stroke="#0F766E" stroke-opacity="0.2"/>
+  <text x="60" y="88" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial" font-size="24" font-weight="700">GitHub insights</text>
+  <text x="60" y="126" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial" font-size="18">Metrics and streaks refresh automatically through GitHub Actions.</text>
+  <rect x="60" y="154" width="220" height="18" rx="9" fill="#0F766E" fill-opacity="0.22"/>
+  <rect x="60" y="154" width="170" height="18" rx="9" fill="#2DD4BF"/>
+  <circle cx="742" cy="112" r="62" fill="#0F766E" fill-opacity="0.24"/>
+  <circle cx="742" cy="112" r="40" fill="#2DD4BF" fill-opacity="0.22"/>
+</svg>

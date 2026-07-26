@@ -1,0 +1,21 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="420" rx="32" fill="#0B1220"/>
+  <rect x="26" y="26" width="1348" height="368" rx="28" fill="url(#bg)"/>
+  <circle cx="1180" cy="116" r="160" fill="#0F766E" fill-opacity="0.22"/>
+  <circle cx="1164" cy="320" r="120" fill="#F8FAFC" fill-opacity="0.06"/>
+  <rect x="96" y="120" width="420" height="180" rx="24" fill="#0F172A" fill-opacity="0.8" stroke="#2DD4BF" stroke-opacity="0.28"/>
+  <path d="M160 236C160 197.026 191.026 166 230 166H260C298.974 166 330 197.026 330 236V250H160V236Z" fill="#F8FAFC" fill-opacity="0.12"/>
+  <circle cx="245" cy="146" r="44" fill="#F8FAFC" fill-opacity="0.16"/>
+  <path d="M180 250H310" stroke="#2DD4BF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 280H292" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round" opacity="0.72"/>
+  <text x="96" y="88" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial" font-size="24" font-weight="700" letter-spacing="3">MUFADDHOL</text>
+  <text x="560" y="182" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial" font-size="56" font-weight="700">Building thoughtful software</text>
+  <text x="560" y="238" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial" font-size="24">Informatics student • software developer • visual storyteller</text>
+  <text x="560" y="282" fill="#2DD4BF" font-family="Segoe UI, Inter, Arial" font-size="20" font-weight="600">Practical engineering • clean design • continuous learning</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="42" x2="1280" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+</svg>
