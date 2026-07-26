@@ -57,36 +57,39 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
 
 ## Featured Projects
 
-<div align="left" style="display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin: 18px 0 28px;">
-
-<div style="border: 1px solid #1f2937; border-radius: 18px; padding: 18px; background: #111827; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h3 style="margin: 0 0 10px; color: #f8fafc;">FadDompet</h3>
-  <p style="margin: 0 0 10px; color: #cbd5e1;">An offline-first personal finance app focused on simplicity, privacy, and calm daily use.</p>
-  <p style="margin: 0 0 10px; color: #2dd4bf;"><strong>Highlights</strong></p>
-  <ul style="margin: 0 0 12px 18px; color: #cbd5e1;">
-    <li>Offline first</li>
-    <li>Budget tracking</li>
-    <li>Local data storage</li>
-    <li>Secure and lightweight</li>
-  </ul>
-  <a href="https://github.com/fadd3079-prog/faddompet" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FadDompet repository" /></a>
-  <a href="https://github.com/fadd3079-prog/faddompet/releases" target="_blank"><img src="https://img.shields.io/badge/Releases-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="FadDompet releases" /></a>
-</div>
-
-<div style="border: 1px solid #1f2937; border-radius: 18px; padding: 18px; background: #111827; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-  <h3 style="margin: 0 0 10px; color: #f8fafc;">Ruang Usaha Kita</h3>
-  <p style="margin: 0 0 10px; color: #cbd5e1;">A marketplace concept designed to connect businesses with creative digital services through a cleaner workflow.</p>
-  <p style="margin: 0 0 10px; color: #2dd4bf;"><strong>Highlights</strong></p>
-  <ul style="margin: 0 0 12px 18px; color: #cbd5e1;">
-    <li>Marketplace concept</li>
-    <li>Multi-role experience</li>
-    <li>Product workflow</li>
-    <li>Product thinking</li>
-  </ul>
-  <img src="https://img.shields.io/badge/In%20Development-f59e0b?style=for-the-badge" alt="In development" />
-</div>
-
-</div>
+<table width="100%" style="border-collapse: separate; border-spacing: 0 16px; margin: 18px 0 28px;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 0 8px 0 0;">
+      <div style="border: 1px solid #1f2937; border-radius: 18px; padding: 18px; background: #111827; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
+        <h3 style="margin: 0 0 10px; color: #f8fafc;">FadDompet</h3>
+        <p style="margin: 0 0 10px; color: #cbd5e1;">An offline-first personal finance app focused on simplicity, privacy, and calm daily use.</p>
+        <p style="margin: 0 0 10px; color: #2dd4bf;"><strong>Highlights</strong></p>
+        <ul style="margin: 0 0 12px 18px; color: #cbd5e1;">
+          <li>Offline first</li>
+          <li>Budget tracking</li>
+          <li>Local data storage</li>
+          <li>Secure and lightweight</li>
+        </ul>
+        <a href="https://github.com/fadd3079-prog/faddompet" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FadDompet repository" /></a>
+        <a href="https://github.com/fadd3079-prog/faddompet/releases" target="_blank"><img src="https://img.shields.io/badge/Releases-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="FadDompet releases" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding: 0 0 0 8px;">
+      <div style="border: 1px solid #1f2937; border-radius: 18px; padding: 18px; background: #111827; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
+        <h3 style="margin: 0 0 10px; color: #f8fafc;">Ruang Usaha Kita</h3>
+        <p style="margin: 0 0 10px; color: #cbd5e1;">A marketplace concept designed to connect businesses with creative digital services through a cleaner workflow.</p>
+        <p style="margin: 0 0 10px; color: #2dd4bf;"><strong>Highlights</strong></p>
+        <ul style="margin: 0 0 12px 18px; color: #cbd5e1;">
+          <li>Marketplace concept</li>
+          <li>Multi-role experience</li>
+          <li>Product workflow</li>
+          <li>Product thinking</li>
+        </ul>
+        <img src="https://img.shields.io/badge/In%20Development-f59e0b?style=for-the-badge" alt="In development" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ## GitHub Analytics
