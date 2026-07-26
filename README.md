@@ -1,262 +1,209 @@
-<!-- Profile README for github.com/fadd3079-prog -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F766E,100:111827&text=Mufaddhol&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Informatics%20Student%20%7C%20Software%20Developer%20%7C%20Graphic%20Designer&descAlignY=60&animation=fadeIn"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=0F766E&center=true&vCenter=true&width=750&lines=Informatics+Student;Technology+Enthusiast;Software+Developer;Graphic+Designer;Video+Editor;Always+Learning+New+Things"/>
+</div>
+
+
 
 <div align="center">
 
-# Mufaddhol
-
-**Informatics Student · Product-minded Software Engineer · Visual Designer**
-
-I build practical software with maintainable architecture, intuitive interfaces, and well-structured documentation.
-
-My work combines software engineering, product thinking, and visual communication to create applications that are reliable, scalable, and easy to use.
-
-<p>
-  <a href="https://faddgraphics.my.id/">
-    <img src="https://img.shields.io/badge/Portfolio-faddgraphics.my.id-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/fadd3079-prog">
-    <img src="https://img.shields.io/badge/GitHub-fadd3079--prog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://instagram.com/fadd.graphics">
-    <img src="https://img.shields.io/badge/Instagram-fadd.graphics-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=fadd3079-prog&style=flat-square&color=0f766e" alt="Profile views">
-  <img src="https://img.shields.io/badge/Open%20Source-Learning%20in%20Public-0f766e?style=flat-square" alt="Open Source">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%26%20Product%20Design-111827?style=flat-square" alt="Focus">
-</p>
-
-</div>
-
----
-
-# About
-
-I am an undergraduate Informatics student at **Universitas Jenderal Soedirman**, Indonesia, with a strong interest in software engineering, product development, and interface design.
-
-I enjoy building software that balances usability, maintainability, and clear system architecture. Every project emphasizes thoughtful engineering, practical functionality, and comprehensive documentation.
-
-### Current Engineering Focus
-
-* Full-stack web applications
-* Offline-first Android applications
-* Dashboard and role-based systems
-* Database design and access control
-* Technical documentation and release workflow
-* Product branding and visual communication through **Fadd Graphics**
-
----
-
-# Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Software Engineering
-
-* Offline-first Flutter applications
-* Next.js full-stack development
-* Supabase, PostgreSQL, and Row Level Security (RLS)
-* SQLite and Drift ORM
-* Authentication and role-based access control (RBAC)
-* Clean architecture and maintainable codebases
-
-</td>
-
-<td width="50%" valign="top">
-
-### Product Engineering
-
-* UI system design
-* Dashboard development
-* Design-to-code workflow
-* Technical documentation
-* Product presentation
-* Visual identity and branding
-
-</td>
-</tr>
-</table>
-
----
-
-# Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## FadDompet
-
-Offline-first personal finance application built with **Flutter**, **Riverpod**, **Drift**, and **SQLite**.
-
-Features include:
-
-* Wallet management
-* Transaction tracking
-* Budget planning
-* Secure backup & restore
-* Biometric app lock
-* In-app update checking
-
-<p>
-<a href="https://github.com/fadd3079-prog/faddompet">
-<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+<a href="https://faddgraphics.my.id">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/fadd3079-prog/faddompet/releases/latest">
-<img src="https://img.shields.io/badge/Latest%20Release-0f766e?style=for-the-badge&logo=android&logoColor=white" alt="Release">
+<a href="https://github.com/fadd3079-prog">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-</td>
+<a href="https://www.linkedin.com/in/mufaddhol-01b60333a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<td width="50%" valign="top">
-
-## Ruang Usaha Kita
-
-Production-oriented marketplace architecture designed for Indonesian UMKM digital services.
-
-Core modules include:
-
-* Creator catalog
-* Service packages
-* Campaign briefs
-* Checkout workflow
-* Orders & revisions
-* Multi-role dashboards
-
-<p>
-
-<img src="https://img.shields.io/badge/Status-In%20Development-f59e0b?style=for-the-badge" alt="Status">
-
-<img src="https://img.shields.io/badge/Focus-UMKM%20Digital%20Platform-0f766e?style=for-the-badge" alt="Focus">
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,js,tailwind,supabase,postgres,sqlite,git,github,vercel,figma,ai,ps" alt="Tech Stack">
-
-</div>
-
-<br>
-
-| Category      | Technologies                                           |
-| ------------- | ------------------------------------------------------ |
-| **Languages** | Dart, TypeScript, JavaScript, SQL                      |
-| **Frontend**  | Flutter, Next.js, React, Tailwind CSS                  |
-| **Backend**   | Supabase, REST APIs                                    |
-| **Database**  | PostgreSQL, SQLite, Drift ORM                          |
-| **Design**    | Figma, Adobe Illustrator, Photoshop, Canva             |
-| **Workflow**  | Git, GitHub, Vercel, Documentation, Release Management |
-
----
-
-# Development Practices
-
-I value software that remains maintainable long after it is shipped.
-
-* Feature-first project organization
-* Maintainable architecture over unnecessary complexity
-* Documentation as part of the product
-* Security and privacy by design
-* Incremental development and stable releases
-* Clear Git history and meaningful commit messages
-* Reusable UI components
-* Consistent coding standards
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=fadd3079-prog&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fadd3079-prog&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fadd3079-prog&theme=github-compact&hide_border=true&area=true" alt="Activity Graph">
-
-</div>
-
----
-
-# Engineering Principles
-
-> **Build software that people can understand, maintain, and trust.**
-
-I believe good software is not only measured by the number of features it provides, but also by its clarity, reliability, maintainability, and user experience.
-
-My development philosophy emphasizes:
-
-* Ship small, stable increments.
-* Prefer simplicity over unnecessary complexity.
-* Design for maintainability before optimization.
-* Treat security and privacy as core product requirements.
-* Write documentation alongside the code.
-* Build interfaces that communicate clearly.
-* Optimize for long-term readability.
-
----
-
-# Beyond Software
-
-Outside software engineering, I work through **Fadd Graphics**, providing graphic design and video editing services.
-
-That design background influences how I approach software—placing strong emphasis on layout, visual hierarchy, usability, branding, and product presentation.
-
----
-
-# Contact
-
-<p>
-
-<a href="https://faddgraphics.my.id/">
-<img src="https://img.shields.io/badge/Website-faddgraphics.my.id-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+<a href="https://instagram.com/faaadhl_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:fadd3079@gmail.com">
-<img src="https://img.shields.io/badge/Email-fadd3079%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/fadd.graphics">
-<img src="https://img.shields.io/badge/Instagram-fadd.graphics-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</div>
+
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=fadd3079-prog&style=for-the-badge&color=0F766E"/>
+<img src="https://img.shields.io/github/followers/fadd3079-prog?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/fadd3079-prog?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20Source-Learning%20in%20Public-0F766E?style=for-the-badge"/>
+</div>
+
+
+## About
+
+<table>
+<tr>
+
+<td width="52%" valign="top">
+
+I'm **Mufaddhol**, an undergraduate Informatics student from Indonesia with a passion for technology, software, and digital creativity.
+I enjoy exploring how systems work, learning new things, and building practical solutions that solve real problems.
+Alongside software development, I also run **Fadd Graphics**, where I create graphic design, branding, social media content, and video editing projects.
+My goal is simple: keep learning, keep building, and continuously improve both technical and creative skills.
+
+</td>
+
+<td width="48%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadd3079-prog&theme=github_dark"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="45%" valign="top">
+
+## Current Focus
+
+- Building useful software
+- Learning new technologies
+- Open Source
+- Product Thinking
+- UI / UX
+- Continuous Learning
+
+</td>
+
+<td width="55%" align="center">
+
+## Technologies
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,js,nodejs,supabase,postgres,sqlite,git,github,figma,ai,ps,pr,vscode,vercel&perline=6"/>
+
+</td>
+
+</tr>
+</table>
+
+
+## Featured Projects
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### FadDompet
+
+Offline-first personal finance application focused on simplicity, privacy, and local-first architecture.
+
+**Highlights**
+
+- Offline First
+- Budget Management
+- Backup & Restore
+- App Lock
+- SQLite Database
+
+<br>
+
+<a href="https://github.com/fadd3079-prog/faddompet">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-</p>
+<a href="https://github.com/fadd3079-prog/faddompet/releases">
 
----
+<img src="https://img.shields.io/badge/Releases-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Ruang Usaha Kita
+
+Marketplace platform connecting businesses with creative digital services through a modern workflow.
+
+**Highlights**
+
+- Marketplace
+- Dashboard
+- Multi Role
+- Authentication
+- Product Workflow
+
+<br>
+
+<img src="https://img.shields.io/badge/In%20Development-f59e0b?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
+## GitHub Analytics
 
 <div align="center">
 
-### Building practical software through thoughtful engineering and purposeful design.
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fadd3079-prog&theme=github-dark-blue&hide_border=true"/>
 
-*"Software should be simple to use, easy to maintain, and built to last."*
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadd3079-prog&theme=github_dark"/>
+
+<br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadd3079-prog&theme=github_dark"/>
+
+</div>
+
+## Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fadd3079-prog&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+## Connect
+
+<div align="center">
+
+<a href="https://faddgraphics.my.id">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:fadd3079@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mufaddhol-01b60333a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/faaadhl_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,100:0F766E"/>
 
 </div>
