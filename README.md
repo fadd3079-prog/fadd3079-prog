@@ -46,64 +46,6 @@ My interests span software engineering, UI/UX design, graphic design, video edit
   <img src="./assets/svg/divider-thin.svg" alt="" width="60%" />
 </p>
 
-<!-- ─── CURRENT FOCUS ─── -->
-
-## <img src="./assets/svg/icons/focus.svg" width="24" height="24" alt="" /> &nbsp;Current Focus
-
-- Building practical, user-focused software
-- Deepening knowledge of systems and architecture
-- Exploring the intersection of design and engineering
-- Contributing to open-source projects
-- Solving problems with clean, maintainable code
-- Thinking in products — from concept to craft
-
-<br>
-
-<p align="center">
-  <img src="./assets/svg/divider.svg" alt="" width="100%" />
-</p>
-
-<!-- ─── TECH STACK ─── -->
-
-## <img src="./assets/svg/icons/stack.svg" width="24" height="24" alt="" /> &nbsp;Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,php,go&perline=13" alt="Languages" />
-
-<br><br>
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,flutter,dart,kotlin&perline=13" alt="Frontend and Mobile" />
-
-<br><br>
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=express,laravel,django,postgres,mysql,mongodb,sqlite,supabase&perline=13" alt="Backend and Data" />
-
-<br><br>
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,postman&perline=13" alt="DevOps and Tools" />
-
-<br><br>
-
-**Design & Creative**
-
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae,blender&perline=13" alt="Design and Creative" />
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="./assets/svg/divider.svg" alt="" width="100%" />
-</p>
 
 <!-- ─── FEATURED PROJECTS ─── -->
 
@@ -226,10 +168,4 @@ My interests span software engineering, UI/UX design, graphic design, video edit
   <img src="./assets/svg/footer-wave.svg" alt="" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,100:0F766E&section=footer&animation=fadeIn" alt="Footer" width="100%" />
-</div>
 
-<div align="center">
-  <sub>Crafted with care · Mufaddhol · 2025</sub>
-</div>
