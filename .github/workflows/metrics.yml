@@ -1,0 +1,49 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: fadd3079-prog
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Jakarta
+          config_display: large
+          config_output: svg
+          filename: dist/github-metrics.svg
+
+          # Lines of code changed
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+
+          # Isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
