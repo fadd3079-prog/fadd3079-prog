@@ -131,7 +131,7 @@ My interests span software engineering, UI/UX design, graphic design, video edit
 
 <!-- ─── SNAKE ANIMATION ─── -->
 
-## <img src="./assets/svg/icons/snake.svg" width="24" height="24" alt="" /> &nbsp;Snake Animation
+
 
 <div align="center">
   <picture>
