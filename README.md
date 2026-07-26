@@ -36,7 +36,7 @@
 
 ## <img src="./assets/svg/icons/about.svg" width="24" height="24" alt="" /> &nbsp;About
 
-I'm **Mufaddhol** — an Informatics student who builds software with a balance of engineering discipline, product thinking, and visual clarity. I enjoy turning ideas into thoughtful digital experiences, learning deeply across domains, and contributing to meaningful work.
+I'm **Mufaddhol** - an Informatics student who builds software with a balance of engineering discipline, product thinking, and visual clarity. I enjoy turning ideas into thoughtful digital experiences, learning deeply across domains, and contributing to meaningful work.
 
 My interests span software engineering, UI/UX design, graphic design, video editing, and the craft of building things that people actually want to use.
 
