@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F766E,100:111827&text=Mufaddhol&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Informatics%20Student%20%7C%20Software%20Developer%20%7C%20Graphic%20Designer&descAlignY=60&animation=fadeIn" alt="Hero header" width="100%" />
 </div>
 
-<div align="center" style="margin: 24px 0 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=850&lines=Building+useful+software;Learning+with+intention;Designing+for+clarity;Solving+real+problems" alt="Typing animation" />
+<div align="center" style="margin: 24px 0 10px; padding: 12px 20px; border: 1px solid #134e4a; border-radius: 999px; background: rgba(15, 23, 42, 0.7);">
+  <p style="margin: 0; color: #2dd4bf; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;">Building useful software • learning with intention • solving real problems</p>
 </div>
 
 <div align="center" style="margin: 22px 0 30px;">
@@ -74,6 +74,7 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
 
 ## GitHub Analytics
 
+<div align="center" style="margin: 10px 0 14px; color: #cbd5e1;">GitHub-friendly snapshots that render consistently in the repository view.</div>
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fadd3079-prog&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadd3079-prog&theme=github_dark" alt="GitHub stats" />
