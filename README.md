@@ -91,11 +91,6 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
 
 ## GitHub Analytics
 
-<div align="center" style="margin: 16px 0 28px; padding: 24px; background: linear-gradient(135deg, #111827 0%, #0F172A 100%); border: 1px solid #1f2937; border-radius: 20px;">
-  <p style="margin: 0 0 8px; color: #2dd4bf; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase;">GitHub activity at a glance</p>
-  <p style="margin: 0; color: #cbd5e1;">Consistent progress, thoughtful iteration, and steady growth.</p>
-</div>
-
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fadd3079-prog&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadd3079-prog&theme=github_dark" alt="GitHub stats" />
