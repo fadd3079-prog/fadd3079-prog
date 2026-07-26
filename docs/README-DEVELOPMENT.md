@@ -1,12 +1,12 @@
 # Profile README development guide
 
-This repository contains the content and assets for a polished GitHub profile README.
+This repository contains a polished GitHub profile README with a lightweight, maintainable structure.
 
 ## Structure
 
 - README.md: the main profile page
-- assets/: SVG illustrations used by the profile
 - .github/workflows/: automation for README refresh, snake animation, and stats updates
+- docs/: documentation for maintaining the profile
 
 ## Maintenance tips
 
@@ -14,6 +14,7 @@ This repository contains the content and assets for a polished GitHub profile RE
 - Prefer small, curated sections over crowded content.
 - Update project cards and links as new work becomes relevant.
 - Keep images and badges lightweight and GitHub-compatible.
+- Use inline HTML and remote badge/image services when possible to avoid local asset dependencies.
 
 ## Local preview
 
