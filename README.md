@@ -21,11 +21,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Learning%20in%20Public-0F766E?style=for-the-badge" alt="Open source badge" />
 </div>
 
-<div align="center" style="margin: 24px 0 28px; padding: 24px; background: linear-gradient(135deg, #111827 0%, #0F766E 100%); border: 1px solid #1f2937; border-radius: 20px;">
-  <p style="margin: 0 0 8px; color: #2dd4bf; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase;">Crafted for clarity</p>
-  <p style="margin: 0; color: #f8fafc; font-size: 18px;">Practical engineering • thoughtful design • continuous learning</p>
-</div>
-
 <div align="center" style="margin: 18px 0 24px;">
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #0F766E, transparent);" />
 </div>
@@ -38,9 +33,7 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadd3079-prog&theme=github_dark" alt="Profile summary" width="100%" />
 </div>
 
-<div align="center" style="margin: 14px 0 18px;">
-  <span style="display: inline-block; padding: 7px 14px; border: 1px solid #0F766E; border-radius: 999px; color: #2dd4bf; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Current Focus</span>
-</div>
+
 
 ## Current Focus
 
@@ -61,9 +54,6 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
   <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,js,nodejs,supabase,postgres,sqlite,git,github,figma,ai,ps,pr,vscode,vercel&perline=8" alt="Tech stack" />
 </div>
 
-<div align="center" style="margin: 14px 0 18px;">
-  <span style="display: inline-block; padding: 7px 14px; border: 1px solid #0F766E; border-radius: 999px; color: #2dd4bf; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Featured Projects</span>
-</div>
 
 ## Featured Projects
 
@@ -98,9 +88,6 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
 
 </div>
 
-<div align="center" style="margin: 14px 0 18px;">
-  <span style="display: inline-block; padding: 7px 14px; border: 1px solid #0F766E; border-radius: 999px; color: #2dd4bf; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">GitHub Analytics</span>
-</div>
 
 ## GitHub Analytics
 
@@ -141,7 +128,4 @@ I’m Mufaddhol, an Informatics student building software with a balance of engi
   <a href="https://instagram.com/faaadhl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
-<div align="center" style="margin-top: 24px; padding: 24px; background: linear-gradient(135deg, #0F766E 0%, #111827 100%); border-radius: 20px; border: 1px solid #1f2937;">
-  <p style="margin: 0; color: #f8fafc; font-weight: 700;">Let’s build something useful.</p>
-</div>
 
