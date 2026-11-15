@@ -14,7 +14,7 @@
   <a href="https://faddgraphics.my.id"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Portfolio" /></a>&nbsp;
   <a href="https://github.com/fadd3079-prog"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/mufaddhol-01b60333a"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=F8FAFC" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://instagram.com/faaadhl_"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=F8FAFC" alt="Instagram" /></a>&nbsp;
+  <a href="https://instagram.com/fadd.fadhol"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=F8FAFC" alt="Instagram" /></a>&nbsp;
   <a href="mailto:fadd3079@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F8FAFC" alt="Email" /></a>
 </div>
 
@@ -157,7 +157,7 @@ My interests span software engineering, UI/UX design, graphic design, video edit
   <a href="https://faddgraphics.my.id"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Portfolio" /></a>&nbsp;
   <a href="mailto:fadd3079@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F8FAFC" alt="Email" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/mufaddhol-01b60333a"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=F8FAFC" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://instagram.com/faaadhl_"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=F8FAFC" alt="Instagram" /></a>
+  <a href="https://instagram.com/fadd.fadhol"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=F8FAFC" alt="Instagram" /></a>
 </div>
 
 <br>
